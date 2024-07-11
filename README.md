@@ -6,4 +6,4 @@
 
 Version 1 
 
-Deployed URL:
+Deployed URL: https://wickeddan.github.io/Weather-Dashboard-Mod6/
