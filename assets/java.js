@@ -1,6 +1,6 @@
 
-const baseURL = "http://api.openweathermap.org/data/2.5/weather";
-const baseURL2 = "http://api.openweathermap.org/data/2.5/forecast";
+const baseURL = "https://api.openweathermap.org/data/2.5/weather";
+const baseURL2 = "https://api.openweathermap.org/data/2.5/forecast";
 const city = document.querySelector("#city")
 const apiKey = "d6cc2b35217695f90560abd302ae69ba";
 
